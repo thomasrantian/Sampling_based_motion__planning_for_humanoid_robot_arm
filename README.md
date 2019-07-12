@@ -3,7 +3,7 @@
 In this project, I implemented multiple sampling based motion planning algorithms (RRT, RRT*, Bidirectional RTT) for a 
 humanoid robot to perform grasping tasks, and compared the performances of different methods. The red path is the raw path from the planer, and the blue path is the optimized and smoothed path. 
 
-<img src="arm_planning.gif" width="550" height="200" />
+<img src="arm_planning.gif" width="550" height="350" />
 
 
 ## Required packages:
